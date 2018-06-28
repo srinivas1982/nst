@@ -1,0 +1,11 @@
+{
+   "machineMode" :"testMode",
+   "uiLanguage" : "n_US",
+   "paymentProcessor" : "notInstalled",
+   "hiveFcCall" : "true",
+   "iotHubUrl" : "null",
+   "deviceKey" : "null",
+   "authKey" : "null"
+}
+
+
